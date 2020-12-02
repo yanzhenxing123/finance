@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c9b0823b-0439-4381-afb3-bd4257185903" name="my_spider_01" url="http://39.98.126.80">
+        <fileTransfer rootFolder="/home/python/spider/scrapy_demos" accessType="SFTP" host="39.98.126.80" port="22" sshConfigId="10980b9c-7496-4479-9cec-a612c5ab6e3e" sshConfig="root@39.98.126.80:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
